@@ -26,7 +26,6 @@ cliente BeePhonica pode fazer uma chamada de uma cidade para outra pagando uma t
 fixa por minuto, com o preço sendo pré-definido em uma lista com os códigos DDDs de 
 origem e destino:
 
-<p alin="center">
 |Origem  |Destino  |$/min  |
 |--------|---------|-------|
 |011     |016      |1.90   |
@@ -36,39 +35,3 @@ origem e destino:
 |011     |118      |0.90   |
 |018     |011      |1.90   |
 |--------|---------|-------|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
